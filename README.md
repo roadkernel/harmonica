@@ -1,1 +1,1 @@
-<img height="200" src="https://raw.githubusercontent.com/roadkernel/harmonica/main/harm.png"  />
+<img height="750" src="https://raw.githubusercontent.com/roadkernel/harmonica/main/harm.png"  />
